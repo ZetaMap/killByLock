@@ -1,4 +1,4 @@
-# Lock Killer
+# Kill By Lock
 Lock a program and kills it indefinitely if it is started. <br>
 
 ## How start it?
